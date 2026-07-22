@@ -1,0 +1,12 @@
+body {
+background-color: antiquewhite;
+}
+  /* Mobile */
+@media screen and (max-width:600px) {body { background-color:wheat; }
+
+}
+
+.texto {
+justify-content: center;
+text-align: center;
+}
